@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**addicted-by/addicted-by** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/addicted-by">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=addicted-by&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addicted-by&theme=dark&layout=compact" />
+</a>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.kaggle.com/in/AVS1508/"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Aleksey%20Rybykin-blue?style=flat-square&logo=kaggle%22"></a>
+<a href="mailto:ras.unlucky@yandex.ru"><img alt="Email" src="https://img.shields.io/badge/Email-ras.unlucky@yandex.ru-blue?style=flat-square&logo=gmail"></a>
+</p>
