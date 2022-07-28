@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there👋
+<h3 align="center">Bachelor of Science in Applied Mathematics</h3>
 
 <a href="https://github.com/addicted-by">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=addicted-by&theme=dark&show_icons=true" />
