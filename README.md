@@ -11,6 +11,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.kaggle.com/addicted-by/"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Aleksey%20Rybykin-blue?style=flat-square&logo=kaggle%22"></a>
+<a href="https://www.kaggle.com/addictedby/"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Aleksey%20Rybykin-blue?style=flat-square&logo=kaggle%22"></a>
 <a href="mailto:ras.unlucky@yandex.ru"><img alt="Email" src="https://img.shields.io/badge/Email-ras.unlucky@yandex.ru-blue?style=flat-square&logo=gmail"></a>
 </p>
