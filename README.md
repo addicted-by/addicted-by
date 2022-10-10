@@ -52,7 +52,7 @@ I'm 22 years old and graduated with a degree in Bachelor of Applied Math at Mosc
   <br/>
   <img align="right" width="120px" src="https://github.com/addicted-by/addicted-by/blob/main/img/hse_logo.png" />
 
-- 📖 **&nbsp;Master of Applied Mathematics and Informatics**\
+- 📖 **&nbsp;Master of Applied Mathematics and Informatics (Current)**\
 📆 &nbsp;2022 - today\
 📍 **&nbsp;HSE** - Moscow, Russia
 
