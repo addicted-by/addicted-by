@@ -50,7 +50,8 @@ I'm 22 years old and graduated with a degree in Bachelor of Applied Math at Mosc
 <details>
   <summary><b>📜 Education </b></summary>
   <br/>
-  <img align="right" width="120px" src="https://github.com/addicted-by/addicted-by/blob/main/img/hse_logo.png" />
+  <img align="right" width="70px" src="https://github.com/addicted-by/addicted-by/blob/main/img/hse_black_back_logo.png#gh-dark-mode-only" />
+  <img align="right" width="70px" src="https://github.com/addicted-by/addicted-by/blob/main/img/hse_light_back_logo.png#gh-light-mode-only" />
 
 - 📖 **&nbsp;Master of Applied Mathematics and Informatics (Current)**\
 📆 &nbsp;2022 - today\
@@ -62,7 +63,8 @@ I'm 22 years old and graduated with a degree in Bachelor of Applied Math at Mosc
 📆 2022 - today\
 📍 **MIPT** - Moscow, Russia
 
-<img align="right" width="70px" src="https://github.com/addicted-by/addicted-by/blob/main/img/mai_logo.png" />
+<img align="right" width="70px" src="https://github.com/addicted-by/addicted-by/blob/main/img/mai_black_back_logo.png#gh-dark-mode-only" />
+<img align="right" width="70px" src="https://github.com/addicted-by/addicted-by/blob/main/img/mai_light_back_logo.png#gh-light-mode-only" />
 
 - 📖 **&nbsp;Bachelor of Applied Math**\
 📆 &nbsp;2018 - 2022\
